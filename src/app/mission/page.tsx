@@ -31,7 +31,7 @@ export default function Mission() {
     <p className="mb-8 leading-8">
      When the <em>Declaration</em> was introduced initially, many people in Western Civilization were fascinated!  As more 
      and more copies were printed in America, reading it in the public arena and o the Fourth of July were common. 
-     This went on for decades. However, not only has this fascination and practice evaporated, but it sseems as if 
+     This went on for decades. However, not only has this fascination and practice evaporated, but it seems as if 
      they never existed.
     </p>
     <p className="mb-8 leading-8">
