@@ -195,12 +195,12 @@ export default function Mission() {
      Supreme Court Justice of the Twentieth Century.&quot;
     </p>
     <p className="mb-8 leading-8">
-     EPILOGUE: What are the results? The &quot;downfall&quot; of <em>The Declaration</em> epitomizes the demolition of 700 years of America’s Foundational 
-     Underpinnings, the destruction of 160 years of precedent, the degradation of people whose blood was spilt to make freedom possible, 
-     and the denigration of Christian citizens who, knowingly or unknowingly, have been relegated to second-class citizenship since 1947. 
-     It also belittles these two documents that attained the unusual status as &quot;the pinnacle of Western Civilization since the time of 
-     Christ&quot; and as &quot;the two most significant documents in human history, second only to the Bible.&quot; <em>It is time to Launch the 
-     Declaration of Independence onto the National Stage! God’s hand is &quot;on&quot; the Declaration!</em>
+     EPILOGUE: What are the results? The &quot;downfall&quot; of <em>The Declaration</em> denigrates of 700 years of America’s Foundational 
+     Underpinnings, desecrates 160 years of precedent, degrades peoples&apos; sweat and blood that made freedom possible, 
+     and demeans Christian citizens who, knowingly or unknowingly, have been relegated to second-class citizenship since 1947. 
+     The results include the belittlement of the two documents that attained status as &quot;the pinnacle of Western Civilization since the time of 
+     Christ&quot; and as &quot;the two most significant documents in human history, second only to the Bible.&quot;... <em>Because God&apos; hand is,
+     on the Declaration, it is time to Launch the Declaration of Independence onto the National Stage!</em>
     </p>
     <p className="leading-8">
      <strong><em>Consider these travesties!</em></strong>
