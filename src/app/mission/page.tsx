@@ -199,7 +199,7 @@ export default function Mission() {
      Underpinnings, desecrates 160 years of precedent, degrades peoples&apos; sweat and blood that made freedom possible, 
      and demeans Christian citizens who, knowingly or unknowingly, have been relegated to second-class citizenship since 1947. 
      The results include the belittlement of the two documents that attained status as &quot;the pinnacle of Western Civilization since the time of 
-     Christ&quot; and as &quot;the two most significant documents in human history, second only to the Bible.&quot;... <em>Because God&apos; hand is,
+     Christ&quot; and as &quot;the two most significant documents in human history, second only to the Bible.&quot;... <em>Because God&apos;s hand is,
      on the Declaration, it is time to Launch the Declaration of Independence onto the National Stage!</em>
     </p>
     <p className="leading-8">
