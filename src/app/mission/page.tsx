@@ -24,20 +24,15 @@ export default function Mission() {
      The title of this message happens to be &quot;Launching the <em>the Declaration of Independence</em> onto the 
      National Stage.&quot; Perhaps, your response falls somewhere along the lines of &quot;Why does the 
      <em>Declaration</em> need to be launched onto the national stage? It has already been launched!&quot; 
-     Theoretically, &quot;yes,&quot; but for all practical purposes, &quot;no.&quot; The &quot;July 4, 1776&quot; 
+     Theoretically, &quot;yes,&quot; but for all practical purposes, &quot;no.&quot; The &quot;1776&quot; 
      launching has vanished from the national stage. This happened incrementally over the decades and, as such, 
      it deserves a &quot;second launching&quot; or &quot;re-launching.&quot;
     </p>
     <p className="mb-8 leading-8">
-     When the <em>Declaration</em> was introduced initially, many people in Western Civilization were fascinated!  As more 
+     When the <em>Declaration</em> was introduced initially, many people in Western Civilization were fascinated! As more 
      and more copies were printed in America, reading it in the public arena and o the Fourth of July were common. 
      This went on for decades. However, not only has this fascination and practice evaporated, but it seems as if 
      they never existed.
-    </p>
-    <p className="mb-8 leading-8">
-     The underlying premise of this message is this: &quot;The hand of God is on <em>The Declaration.</em>&quot; 
-     You may ask, &quot;Where is this proof?&quot; According to church historians, <em>The Declaration of Independence</em> 
-     is one of the &quot;two most significant documents in human history, second only to the Bible.&quot;
     </p>
     <p className="mb-8 leading-8">
      To begin, we need to look at four lines of reasoning: 1) the significance and impact of the document, 2) the
@@ -45,15 +40,21 @@ export default function Mission() {
      &quot;downfall&quot; of the document.
     </p>
     <p className="mb-8 leading-8">
-     <strong>First, the significance and impact of the document.</strong> <em>The Declaration</em>, along with the 
-     <em>U.S. Constitution</em>, serve as &quot;the two most significant documents&quot; because of the vastness 
+    <strong>First, the significance and impact of the document.</strong> The underlying premise of this message is this: 
+     &quot;The hand of God was and still is on <em>The Declaration.</em>&quot; You may ask, &quot;Where is this proof?&quot; 
+     According to church historians, <em>The Declaration of Independence</em> is one of the &quot;two most significant 
+     documents in human history, second only to the Bible.&quot; The other document happens to be the <em>U.S. Constitution.</em>
+     Together they are designated as the pinnacle of Western Civilazation since the time of Christ.
+    </p>
+    <p className="mb-8 leading-8">
+     <em>The Declaration</em>, along with the <em>U.S. Constitution</em>, serve as &quot;the two most significant documents&quot; because of the vastness 
      of their impact. Not only was <em>The Declaration</em> instrumental in ending the tyranny of the king of England, 
-     but it was instrumental in terminating a whopping 2,000 years of tyranny that permeated Western Civilization! 
+     but it was instrumental in terminating a whopping 2,000 years of tyranny in Western Civilization! 
      (Not all of these rulers were tyrants but most were operating under a dubious &quot;right&quot; known as &quot;the 
      divine right of kings.&quot;)
     </p>
     <p className="mb-8 leading-8">
-     While the Revolutionary War raged on and on, the other countries and entities in Western Civilization &quot;watched&quot; from 
+     As for the Constiutution, while the Revolutionary War raged on and on, the other countries and entities in Western Civilization &quot;watched&quot; from 
      afar until war’s end on September 3, 1783. This left these countries in a governess quandary. Four years later, the 
      Founding Fathers ratified <em>The Constitution</em> on September 17, 1787, and sent copies of this document to all of those 
      countries. Eventually, they all became &quot;Constitutional Republics,&quot; as did all fifty of our state governments! They 
