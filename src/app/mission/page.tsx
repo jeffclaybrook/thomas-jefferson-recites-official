@@ -15,205 +15,109 @@ export default function Mission() {
      className="mx-auto rounded-md my-16"
     />
     <h2 className="text-2xl font-semibold mb-2">
-     Launching the Declaration of Independence onto the National Stage
+      Re-launching The Declaration of Independence onto the National Stage
     </h2>
     <h3 className="mb-8">
-     A Message by Craig L. Claybrook
+      A Script by Craig L. Claybrook, a.k.a. Thomas Jefferson
     </h3>
     <p className="mb-8 leading-8">
-     The title of this message happens to be &quot;Launching the <em>the Declaration of Independence</em> onto the 
-     National Stage.&quot; Perhaps, your response falls somewhere along the lines of &quot;Why does the 
-     <em>Declaration</em> need to be launched onto the national stage? It has already been launched!&quot; 
-     Theoretically, &quot;yes,&quot; but for all practical purposes, &quot;no.&quot; The &quot;1776&quot; 
-     launching has vanished from the national stage. This happened incrementally over the decades and, as such, 
-     it deserves a &quot;second launching&quot; or &quot;re-launching.&quot;
+     Ladies and Gentlemen, this message is entitled “Re-launching <em>The Declaration of Independence</em> onto the National Stage.” This title may seem a little strange until we look at a its historical background. Whenever and wherever it was originally introduced, it became a phenomenon and people were fascinated. Over the decades, it was a common practice for the <em>Declaration</em> to be read in the public arena and on Fourth of July. At some point in the Twentieth Century, things changed. Interest waned to the point that it was no longer read in public and was scarcely mentioned in public. For all practical purposes, it “vanished.”
     </p>
     <p className="mb-8 leading-8">
-     When the <em>Declaration</em> was introduced initially, many people in Western Civilization were fascinated! As more 
-     and more copies were printed in America, reading it in the public arena and o the Fourth of July were common. 
-     This went on for decades. However, not only has this fascination and practice evaporated, but it seems as if 
-     they never existed.
+      INTRODUCTION: So, the document needs to be “re-launched” for four reasons:
     </p>
     <p className="mb-8 leading-8">
-     To begin, we need to look at four lines of reasoning: 1) the significance and impact of the document, 2) the
-     Foundational Underpinnings of the document, 3) the underlying &quot;genius&quot; of the document, 4) the
-     &quot;downfall&quot; of the document.
+      <strong>The First Reason addresses the Significance and Impact of the Document.</strong> According to church historians, “<em>The Declaration of Independence</em> is one of the two most significant documents in human history, second only to the Bible!” Its impact is that, not only did it end the tyranny of the King of England, but it demolished a grueling 2,000 years of tyranny in Western Civilization!
     </p>
     <p className="mb-8 leading-8">
-    <strong>First, the significance and impact of the document.</strong> The underlying premise of this message is this: 
-     &quot;The hand of God was and still is on <em>The Declaration.</em>&quot; You may ask, &quot;Where is this proof?&quot; 
-     According to church historians, <em>The Declaration of Independence</em> is one of the &quot;two most significant 
-     documents in human history, second only to the Bible.&quot; The other document happens to be the <em>U.S. Constitution.</em>
-     Together they are designated as the pinnacle of Western Civilazation since the time of Christ.
+      The other half of “one of the two most significant documents” happens to be <em>The Constitution of the United States</em>. It introduced the most formidable system of governance known to man, a “Constitutional Republic.” John Adams called it governing “by laws, and not of men,” and “not the whims of men.”
     </p>
     <p className="mb-8 leading-8">
-     <em>The Declaration</em>, along with the <em>U.S. Constitution</em>, serve as &quot;the two most significant documents&quot; because of the vastness 
-     of their impact. Not only was <em>The Declaration</em> instrumental in ending the tyranny of the king of England, 
-     but it was instrumental in terminating a whopping 2,000 years of tyranny in Western Civilization! 
-     (Not all of these rulers were tyrants but most were operating under a dubious &quot;right&quot; known as &quot;the 
-     divine right of kings.&quot;)
+      Its impact is that it has been operational for almost two-and-a-half centuries in America. In Europe, every country that watched the Revolutionary War from “afar” eventually became a Constitutional Republic. So, did all fifty of our state governments. Historians have paid tribute to these two documents by declaring them: “the pinnacle of human history since the time of Christ!”
     </p>
     <p className="mb-8 leading-8">
-     As for the Constiutution, while the Revolutionary War raged on and on, the other countries and entities in Western Civilization &quot;watched&quot; from 
-     afar until war’s end on September 3, 1783. This left these countries in a governess quandary. Four years later, the 
-     Founding Fathers ratified <em>The Constitution</em> on September 17, 1787, and sent copies of this document to all of those 
-     countries. Eventually, they all became &quot;Constitutional Republics,&quot; as did all fifty of our state governments! They 
-     all chose &quot;a government of laws, not of men,&quot; according to President John Adams. He wanted a government based on 
-     laws, not the whims of men.
-    </p>
-    <p className="p-4 rounded-md mb-8 leading-6 text-sm bg-amber-400">
-     (Appreciation and acknowledgment of historical details go to <em>Never Before in History—America’s Inspired Birth</em>, 
-     published by Discovery Institute, Seattle, Washington; Co-authors Gary Amos and Richard Gardiner; Academic Editors 
-     Thomas G. West and William A. Dembski. Also, <em>Enough Is Enough</em>, published by FrontLine, A Strang Company; Lake Mary, 
-     Florida; Rick Scarborough, author. Both books used by permission.)
+      CONCLUSION: In short, one document ended twenty centuries of tyranny. The other is a governing masterpiece.
     </p>
     <p className="mb-8 leading-8">
-     <strong>Second, America’s Foundational Underpinnings of the document.</strong> Secular historians tell us that  &quot;the pathway 
-     to <em>The Declaration of Independence</em> began when the British attacked Lexington, Massachusetts at dawn on April 19, 1775.&quot; 
-     However, church historians tell us that the pathway consisted of three pivotal events, spanning 700 years. Put briefly:
+      <small>(Appreciation and acknowledgment of historical details go to <em>Never Before in History—America’s Inspired Birth</em>, published by Discovery Institute, Seattle, Washington; Co-authors Gary Amos and Richard Gardiner; Academic Editors Thomas G. West and William A. Dembski. Also, Enough Is Enough, published by FrontLine, A Strang Company; Lake Mary, Florida; Rick Scarborough, author. Both books used by permission.)</small>
     </p>
     <p className="mb-8 leading-8">
-     1) In 1075, Pope Gregory VII admonished the kings and rulers of Western Europe &quot;to stay out of the church’s business.&quot; 
-      This marked the beginning of &quot;freedom of religion&quot; and it also brought about the concept of &quot;separation of 
-      church and state&quot; in its original form. Seven centuries later, the Founders would turn the Pope’s &quot;freedom of religion&quot; 
-      slogan into a rallying cry throughout the colonies.
+      <strong>The Second Reason addresses America’s Foundational Underpinnings of the Document.</strong> Secular historians tell us that “the pathway to the <em>Declaration</em> began when the British attacked Lexington, Massachusetts at dawn on April 19, 1775.” However, church historians tell us that the pathway began 700 years before that and it consisted of three pivotal events. Vastly intertwined with these events was the Roman Catholic Church.
     </p>
     <p className="mb-8 leading-8">
-     2) In 1215, Cardinal Stephen Langton introduced his 3500-word document, the <em>Magna Carta</em>. It dealt with &quot;limiting 
-     the power of kings,&quot; the overriding issue of the Middle Ages. It was later designated as England’s foremost legal 
-     document, still in effect to this very day. The Founders relied on this document as their primary source for rebutting the 
-     king’s edicts and atrocities. (The Roman Church was vastly intertwined with America’s Foundational Underpinnings.)
+      In 1075, Pope Gregory VII instituted sweeping reforms across Western Europe in which he admonished the kings and rulers “to stay out of the church’s business.” This eventually became known as “separation of church and state” in its original form and it also marked the beginning of “freedom of religion.” Seven centuries later, the Founders would turn the Pope’s “freedom of religion” into a rallying cry throughout the colonies.
     </p>
     <p className="mb-8 leading-8">
-     3) In 1517, Martin Luther, a priest and Bible scholar, was aghast with abuses he saw in the Roman Church. This provoked him 
-     to tack his ninety-five theses onto the Wittenburg door. Pope Leo X then put Luther on trial for heresy, under penalty of death 
-     by burning at the stake. At his trial, Luther argued that it was &quot;wrong for anyone to act against his [or her] conscience 
-     in religious matters.&quot; This became known as &quot;liberty of conscience&quot; and sparked what became known as the 
-     Protestant Reformation, still in effect today. He also stirred up a Political Reformation by advancing his &quot;Resistance 
-     Theory&quot; in which he strongly advocated &quot;disobeying corrupt magistrates and their unjust laws.&quot; The Founders drew 
-     heavily from Luther and his two Reformations.
+      In 1215, Cardinal Stephen Langton introduced his 3500-word document, the <em>Magna Carta</em>. It dealt with “limiting the power of kings,” the overriding issue of the Middle Ages. It was later designated as England’s foremost legal document, still in effect to this very day. The Founders relied on this document as their primary source for rebutting the king’s edicts and atrocities.
     </p>
     <p className="mb-8 leading-8">
-    Why were these events so vitally important? In short, these three men and their considerable contributions to &quot;America’s 
-    Foundational Underpinnings&quot; paved the way for America’s Founding in The Declaration of Independence.
+      In 1517, a certain priest and Bible scholar was aghast with abuses he observed in the Roman Church. His name was Martin Luther. This provoked him to tack his ninety-five theses onto the Wittenburg door. As a result, Pope Leo X responded by putting Luther on trial for heresy, under penalty of death by burning at the stake. At his trial, Luther argued that it was “wrong for anyone to act against his conscience in religious matters.” This became known as “liberty of conscience” and this phrase sparked what became known as the Protestant Reformation. What Luther started has lasted for more than 500 years!
     </p>
     <p className="mb-8 leading-8">
-     <strong>Third, the underlying &quot;genius&quot; behind the document.</strong> <em>The Declaration</em> contains four references to God. 
-     These four references are found in the first two sentences and the last two sentences, effectively forming bookends around 
-     <em>The Declaration of Independence</em>. This was the Founders’ way of &quot;shouting from the rooftops&quot; that God is in <em>The Declaration</em> 
-     and God is in the founding of this country. The underlying &quot;genius&quot; of <em>The Declaration</em> centers on these four references.
+      Luther also stirred up a Political Reformation by establishing his “Resistance Theory.” This document advocated “disobeying corrupt magistrates and their unjust laws.” The Founders drew heavily from Luther and his two Reformations.
+    </p>
+    <p className="mb-8 leading-8">
+      CONCLUSION: These three events serve as the “highlight” of America’s Foundational Underpinnings and its “pathway to the <em>Declaration</em>.”
+    </p>
+    <p className="mb-8 leading-8">
+      TRANSITION: Ladies and Gentlemen, I don’t know if you noticed or not but the <em>Declaration</em> contains four references to God. These four references are found in the first two sentences and last two sentences, effectively forming bookends around the <em>Declaration</em>. This was the Founders’ way of “shouting from the rooftops” that God is “in” <em>The Declaration of Independence</em> and God is “in” the founding of this country.
     </p>
     <p className="mb-8 leading-8 text-center">
-     <em>The Laws of Nature and of Nature’s God</em>
+      <em>The Laws and Nature and of Nature’s God</em>
     </p>
     <p className="mb-8 leading-8">
-     The first reference addresses &quot;the Laws of Nature and of Nature’s God.&quot; This topic came about because the King of England had 
-     laws written, which portrayed the Founders and colonists as outlaws and criminals. As a result, Jefferson needed a way to legitimize 
-     American independence to four audiences: the king and his minions, fellow colonists, the watching world, and all future generations. 
-     Jefferson needed a law, that not only <em>preceded</em> the king’s law, but <em>superseded</em> the king’s law.
+      <strong>The Third Reason addresses the “Genius” of the Document.</strong> The first reference is entitled, “The Laws of Nature and of Nature’s God.” When I was asked to write the <em>Declaration</em>, I faced a severe issue that needed attention. The King of England had ordered the writing of laws that portrayed the Founders and colonists as outlaws and criminals. As a result, I needed a way to “legitimize” American independence to four audiences. These include the king and his minions, our fellow colonists, the watching world, and all future generations. I needed a law that not only preceded the king’s laws but superseded the king’s laws.
     </p>
     <p className="mb-8 leading-8">
-     In writing the first sentence, his thoughts turned to Sir Edward Coke (pronounced Cook but spelled C o k e). He was a Catholic 
-     theologian and scholar. Jefferson had been introduced to Coke’s &quot;law of nature&quot; through his writings, dating back to 1611. Coke 
-     described this law as being &quot;infused into the heart of the creature at the time of his creation.&quot;
+      In writing the first sentence, my thoughts turned to Sir Edward Coke, a Catholic theologian and scholar. (His name was pronounced Cook but spelled C o k e). In college at age fifteen, I had been introduced to Coke’s “law of nature” through his writings, dating back to 1611. He described this law as being “infused into the heart of the creature at the time of his creation.”
     </p>
     <p className="mb-8 leading-8">
-     Coke knew that even before Moses introduced the Ten Commandments, the Jews were said to have had this law &quot;written with the finger 
-     of God in the heart of man.&quot; He also knew that the Apostle Paul had written about this law in Romans Chapter 2: &quot;While the gentiles 
-     who do not have the law do naturally the things of the law ….&quot;  In dealing with the credibility issue, Jefferson brilliantly appealed 
-     to &quot;… the Laws of Nature and of Nature’s God.&quot; (He &quot;pluralized&quot; law to acknowledge that other Laws of Nature exist.)
+      Even before Moses introduced the Ten Commandments, the Jews were said to have had this law “written with the finger of God in the heart of man.” The Apostle Paul also wrote about this law in Romans Chapter Two: “While the gentiles who do not have the law do naturally the things of the law….” And interestingly, the Roman Catholic Church added this “law of nature” to their Canon Law in the 1300s.
     </p>
     <p className="mb-8 leading-8">
-     Before the Protestant Reformation existed, this &quot;law of nature&quot; was embedded in the Canon Law of the Roman Catholic Church in the 1300s. 
-     After the Reformation began, a long line of thinkers like Blackstone, Rutherford, Sidney, and Locke passionately wrote about it. 
-     Remarkably, since the beginning of Creation, this same &quot;Law of Nature&quot; has been written in every person’s heart at the time of his or her birth.
+      CONCLUSION: So, what happened? The “Law of Nature and of Nature’s God” profoundly “legitimized” American independence.
     </p>
     <p className="mb-8 leading-8 text-center">
-     <em>All Men are Created Equal and Endowed by their Creator with Certain Unalienable Rights</em>
+      <em>All Men are Created Equal and Endowed by their Creator with Certain Unalienable Rights</em>
     </p>
     <p className="mb-8 leading-8">
-     The purpose of the first references was to address &quot;laws&quot; and the purpose of the second reference was to address &quot;rights.&quot; 
-     Here we see the two pillars of governance: laws and rights. This reference reads, &quot;… all men are created equal and endowed by 
-     their Creator with certain unalienable rights ….&quot; While &quot;all men are created equal&quot; addresses the laws of nature, unalienable 
-     rights&quot; refer to inborn rights. Under English Common Law, &quot;unalienable rights&quot; are possessions that &quot;could not be denied, taken 
-     away, or transferred to others.&quot;
+      The second reference reads, “all men are created equal and endowed by their Creator with certain unalienable rights.” Here we see the two pillars of governance: laws and rights. “All men are created equal” addresses the laws of nature, while “unalienable rights” refer to inborn rights. Under English Common Law, “unalienable rights” are possessions that “could not be denied, taken away, or transferred to others.”
     </p>
     <p className="mb-8 leading-8">
-     So, what does the phrase &quot;all men are created equal&quot; mean? It means three things: 1) it means we are all created in the image 
-     of God, 2) it means we were all created in a state of perfect innocence, 3) it means that, having never sinned, we will never be 
-     closer to God in this life than when in our mother’s womb.
+      So, what does the phrase “all men are created equal” mean? It means three things: 1) it means that we are all created in the image of God, 2) it means that we were all created in a state of perfect innocence, and 3) it means that, having never sinned, we will never be closer to God in this life … than when we were in our mother’s womb!
     </p>
     <p className="mb-8 leading-8">
-     However, we were also created equal in other ways. Because of Adam and Eve’s fall from grace in the garden, we were all born with 
-     a &quot;sin nature&quot; and, according to Luther, this automatically implies that we were all born with a need for a Redeemer to forgive our 
-     sins. He called this his &quot;Creator/Redeemer Distinction.&quot;
+      However, we were also created equal in other ways. Because of Adam and Eve’s fall from grace in the garden, everyone born after that was born with a “sin nature.” If any of you have ever sinned, then you have a “sin nature.” And, according to Luther, this automatically implies that we were all born with a need for a Redeemer to forgive our sins. Luther called this his “Creator/Redeemer Distinction.”
     </p>
     <p className="mb-8 leading-8 text-center">
-     <em>The Supreme Judge of the World</em>
+      <em>The Supreme Judge of the World</em>
     </p>
     <p className="mb-8 leading-8">
-     In the third reference to God, the Founders appealed &quot;to the Supreme Judge of the world for the rectitude of our intentions.&quot; 
-     The Founders were well-acquainted with God’s &quot;omniscience.&quot; They knew Jeremiah 17:10: &quot;I the LORD search the heart, I try 
-     the reins, even to give to every man according to his ways, and according to the fruit of his doings.&quot; They wanted their 
-     massive audience to know that their motives were pure.
+      In the third reference to God, the Founders appealed “to the Supreme Judge of the world for the rectitude of our intentions.” This had to do with God’s “omniscience” or “all-knowing ways.” We wanted our audiences, both present and future, to know that our motives were pure.
     </p>
     <p className="mb-8 leading-8 text-center">
-     <em>The Protection of Divine Providence</em>
+      <em>The Protection of Divine Providence</em>
     </p>
     <p className="mb-8 leading-8">
-     In the fourth reference, the Founders appealed to &quot;the protection of Divine Providence.&quot; This refers to the &quot;Sovereignty of God,&quot; 
-     defined as &quot;supreme authority.&quot; Martin Luther and his successor, John Calvin, were both ardent advocates of this teaching. 
-     Years later, the phrase &quot;Divine Providence&quot; started showing up in literature at the end of the Sixteenth Century. Both terms are 
-     similar, but &quot;sovereignty&quot; is an attribute while Divine Providence&quot; is a title. The Founders literally knew &quot;our lives, fortunes, 
-     and sacred honor&quot; hung in the balance. These four references serve as the underlying &quot;genius&quot; of <em>The Declaration</em>. Without these 
-     references to God, <em>The Declaration</em> would have been &quot;an empty shell of a document.&quot;     
+      In the fourth reference, the Founders implored “the protection of Divine Providence.” This refers to the “Sovereignty of God,” a theological term for the “supreme authority of God.” “Sovereignty” is an attribute while Divine Providence” is a title. We Founders appealed to Divine Providence because our lives were in grave danger.
     </p>
     <p className="mb-8 leading-8">
-     <strong>Fourth, the &quot;downfall&quot; of the document.</strong> Oddly, the &quot;downfall&quot; of the <em>Declaration</em> started in a court of law. How so? 
-     The U.S. Supreme Court of 1947 was considering <em>Everson v. Board of Education</em> when they received an <em>amicus</em> brief from an atheistic 
-     organization. This was a case about taxpayer dollars being used to transport children to religious schools. The crux of the matter 
-     was &quot;wall of separation of church and state.&quot;
+      CONCLUSION: So, there you have it: the “genius” of the document centers on these four references. Historians tell us: “Without these four references, the <em>Declaration</em> would have been an empty shell of a document.” We’re getting pretty close to the end.
     </p>
     <p className="mb-8 leading-8">
-     The original meaning in 1075 A.D. had to do with &quot;keeping the state out of the church’s business.&quot; However, the 1947 <em>amicus</em> brief 
-     called for reversing it to mean &quot;keeping the church out of the state’s business.&quot; The atheists argued that the Court could change 
-     the original meaning lawfully, because it had never been codified into law. The Chief Justice &quot;bought into&quot; their argument but it 
-     took some heavy-duty persuasion to garner enough support to codify this highly controversial issue into law. Supposedly, this 
-     change would &quot;secularize America&quot; but the word &quot;de-Christianization&quot; would have been more appropriate. It may have been &quot;lawful&quot; 
-     to change the meaning of &quot;separation&quot; but it was an &quot;ethical disaster.&quot;
+      <strong>The Fourth Reason addresses the “Downfall” of the Document.</strong> The “downfall” of the <em>Declaration</em> closely parallels the advancement of atheism in our country and, oddly enough, it all started in a court of law. This advancement began when the U.S. Supreme Court of 1947 reversed Pope Gregory VII’s 1075 A.D. meaning of “separation of church and state.” Almost a thousand years later, it went from “keeping the state out of the church’s business” to “keeping the church out of the state’s business.”
     </p>
     <p className="mb-8 leading-8">
-     What happened next? The <em>Everson Case</em> lay dormant until the 1962 U.S. Supreme Court dredged it up to ban prayer in public schools 
-     in <em>Engel v. Vitale</em>, which blindsided a large segment of the nation. Then the 1963 Court relied on <em>Everson</em> to rule in favor of <em>Murray 
-     v. Curlett</em>. This was the case initiated by atheist Madalyn Murry O’Hair to denounce Bible reading in public schools, which 
-     caused a national uproar. The practice of reading the Bible to children and teens had been a practice since the Pilgrims landed at 
-     Plymouth Rock in 1620. It had played an integral role in America’s Foundational Underpinnings.
+      This took place at the bidding of an atheist organization via their amicus brief in a court case called <em>Everson v. Board of Education</em>. It did so, supposedly, in order to “secularize” America but it should have been labeled “de-Christianize” America. After the Court ruled in favor of <em>Everson</em>, this case remained idle until 1962 when the Court used “judicial precedent” to take prayer out of public schools. Then, in 1963, it ruled to take Bible reading out of public schools. Over several decades, more than a dozen court cases had been decided by “keeping the church out of the state’s business.” All of these cases were “rooted” in atheism.
     </p>
     <p className="mb-8 leading-8">
-     What caused the &quot;downfall&quot; of The Declaration? The Court’s reversal of the original &quot;separation&quot; and those &quot;four references to God.&quot; 
-     <em>The Declaration’s</em> death knell came when public schools removed history from their curriculums and the public follows the lead of 
-     public schools. In closing, the Chief Justice, who ramrodded &quot;separation,&quot; posthumously received the award as &quot;The Most Influential 
-     Supreme Court Justice of the Twentieth Century.&quot;
+      EPILOGUE: Some of you may be wondering, “What’s wrong with atheism?” In this instance, it denigrates 700 years of America’s Foundational Underpinnings, 160 years of legal precedent, and 7.5 years of “blood, sweat, and tears” of those who gave us our freedom.
     </p>
     <p className="mb-8 leading-8">
-     EPILOGUE: What are the results? The &quot;downfall&quot; of <em>The Declaration</em> denigrates of 700 years of America’s Foundational 
-     Underpinnings, desecrates 160 years of precedent, degrades peoples&apos; sweat and blood that made freedom possible, 
-     and demeans Christian citizens who, knowingly or unknowingly, have been relegated to second-class citizenship since 1947. 
-     The results include the belittlement of the two documents that attained status as &quot;the pinnacle of Western Civilization since the time of 
-     Christ&quot; and as &quot;the two most significant documents in human history, second only to the Bible.&quot;... <em>Because God&apos;s hand is,
-     on the Declaration, it is time to Launch the Declaration of Independence onto the National Stage!</em>
+      Furthermore, it desecrates <em>The Declaration of Independence</em> and <em>The Constitution of the United States</em> by degrading their tributes as: “The two most significant documents in human history, second only to the Bible,” and as “the pinnacle of Western Civilization since the time of Christ.” That is what is wrong with atheism in America, plus it reduced Christian citizens to “second class citizenship.”
     </p>
-    <p className="leading-8">
-     <strong><em>Consider these travesties!</em></strong>
-    </p>
-    <p className="leading-8">
-     <strong><em>Grieve over these travesties!</em></strong>
-    </p>
-    <p className="leading-8">
-     <strong><em>Do something about these travesties!</em></strong>
-    </p>
-    <p className="leading-8">
-     <strong><em>It is time to Launch the Declaration of Independence onto the National Stage!</em></strong>
+    <p className="mb-8 leading-8">
+      <em>In conclusion, because God’s hand is on it, it’s time to re-launch the Declaration onto the national stage! Won’t you join me!</em>
     </p>
    </Section>
   </>
