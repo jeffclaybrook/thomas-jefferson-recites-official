@@ -24,6 +24,12 @@ export default function Mission() {
      Ladies and Gentlemen, this message is entitled “Re-launching <em>The Declaration of Independence</em> onto the National Stage.” This title may seem a little strange until we look at a its historical background. Whenever and wherever it was originally introduced, it became a phenomenon and people were fascinated. Over the decades, it was a common practice for the <em>Declaration</em> to be read in the public arena and on Fourth of July. At some point in the Twentieth Century, things changed. Interest waned to the point that it was no longer read in public and was scarcely mentioned in public. For all practical purposes, it “vanished.”
     </p>
     <p className="mb-8 leading-8">
+    Over the decades, it was a common practice for the Declaration to be read in the public
+arena and on Fourth of July. At some point in the Twentieth Century, things changed.
+Interest waned to the point that it was no longer read in public and was scarcely even
+mentioned in public. For all practical purposes, it “vanished.”
+    </p>
+    <p className="mb-8 leading-8">
       INTRODUCTION: So, the document needs to be “re-launched” for four reasons:
     </p>
     <p className="mb-8 leading-8">
@@ -61,6 +67,177 @@ export default function Mission() {
     </p>
     <p className="mb-8 leading-8">
       TRANSITION: Ladies and Gentlemen, I don’t know if you noticed or not but the <em>Declaration</em> contains four references to God. These four references are found in the first two sentences and last two sentences, effectively forming bookends around the <em>Declaration</em>. This was the Founders’ way of “shouting from the rooftops” that God is “in” <em>The Declaration of Independence</em> and God is “in” the founding of this country.
+    </p>
+    <p className="mb-8 leading-8">
+      <strong>The Declaration of Indpendence: In Congress, July 4, 1776. The unanimous Declaration of the thirteen United States of America. (In Original Format)</strong>
+    </p>
+    <p className="mb-8 leading-8">
+    When in the Course of human events, it becomes necessary for one people to dissolve the political bands
+which have connected them with another, and to assume among the powers of the earth, the separate and
+equal station to which the Laws of Nature and of Nature&#39;s God entitle them, a decent respect to the
+opinions of mankind requires that they should declare the causes which impel them to the separation.
+    </p>
+    <p className="mb-8 leading-8">
+    We hold these truths to be self-evident, that all men are created equal, that they are endowed by their
+Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--
+That to secure these rights, Governments are instituted among Men, deriving their just powers from the
+consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it
+is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on
+such principles and organizing its powers in such form, as to them shall seem most likely to effect their
+Safety and Happiness.
+    </p>
+    <p className="mb-8 leading-8">
+    Prudence, indeed, will dictate that Governments long established should not be changed for light and
+transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer,
+while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed.
+But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to
+reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and
+to provide new Guards for their future security.
+    </p>
+    <p className="mb-8 leading-8">
+    --Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains
+them to alter their former Systems of Government. The history of the present King of Great Britain is a
+history of repeated injuries and usurpations, all having in direct object the establishment of an absolute
+Tyranny over these States. To prove this, let Facts be submitted to a candid world.
+    </p>
+    <p className="mb-8 leading-8">
+    He has refused his Assent to Laws, the most wholesome and necessary for the public good.
+    </p>
+    <p className="mb-8 leading-8">
+    He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended
+in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected
+to attend to them.
+    </p>
+    <p className="mb-8 leading-8">
+    He has refused to pass other Laws for the accommodation of large districts of people, unless those
+people would relinquish the right of Representation in the Legislature, a right inestimable to them and
+formidable to tyrants only.
+    </p>
+    <p className="mb-8 leading-8">
+    He has called together legislative bodies at places unusual, uncomfortable, and distant from the
+depository of their public Records, for the sole purpose of fatiguing them into compliance with his
+measures.
+    </p>
+    <p className="mb-8 leading-8">
+    He has dissolved Representative Houses repeatedly, for opposing with manly firmness his invasions on
+    the rights of the people.
+    </p>
+    <p className="mb-8 leading-8">
+    He has refused for a long time, after such dissolutions, to cause others to be elected; whereby the
+Legislative powers, incapable of Annihilation, have returned to the People at large for their exercise;
+the State remaining in the mean time exposed to all the dangers of invasion from without, and
+convulsions within.
+    </p>
+    <p className="mb-8 leading-8">
+    He has endeavoured to prevent the population of these States; for that purpose obstructing the Laws
+for Naturalization of Foreigners; refusing to pass others to encourage their migrations hither, and
+raising the conditions of new Appropriations of Lands.
+    </p>
+    <p className="mb-8 leading-8">
+    He has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing
+    Judiciary powers.
+    </p>
+    <p className="mb-8 leading-8">
+    He has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and
+    payment of their salaries.
+    </p>
+    <p className="mb-8 leading-8">
+    He has erected a multitude of New Offices, and sent hither swarms of Officers to harrass our people,
+    and eat out their substance.
+    </p>
+    <p className="mb-8 leading-8">
+    He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.
+    </p>
+    <p className="mb-8 leading-8">
+    He has affected to render the Military independent of and superior to the Civil power.
+    </p>
+    <p className="mb-8 leading-8">
+    He has combined with others to subject us to a jurisdiction foreign to our constitution, and
+    unacknowledged by our laws; giving his Assent to their Acts of pretended Legislation:
+    </p>
+    <p className="mb-8 leading-8">
+    For Quartering large bodies of armed troops among us:
+    </p>
+    <p className="mb-8 leading-8">
+    For protecting them, by a mock Trial, from punishment for any Murders which they should commit
+    on the inhabitants of these States:
+    </p>
+    <p className="mb-8 leading-8">
+    For cutting off our Trade with all parts of the world:
+    </p>
+    <p className="mb-8 leading-8">
+    For imposing Taxes on us without our Consent:
+    </p>
+    <p className="mb-8 leading-8">
+    For depriving us in many cases, of the benefits of Trial by Jury:
+    </p>
+    <p className="mb-8 leading-8">
+    For transporting us beyond Seas to be tried for pretended offences:
+    </p>
+    <p className="mb-8 leading-8">
+    For abolishing the free System of English Laws in a neighbouring Province, establishing therein an
+Arbitrary government, and enlarging its Boundaries so as to render it at once an example and fit
+instrument for introducing the same absolute rule into these Colonies
+For taking away our Charters, abolishing our most valuable Laws, and altering fundamentally the
+Forms of our Governments:
+    </p>
+    <p className="mb-8 leading-8">
+    For suspending our own Legislatures, and declaring themselves invested with power to legislate
+    for us in all cases whatsoever.
+    </p>
+    <p className="mb-8 leading-8">
+    He has abdicated Government here, by declaring us out of his Protection and waging War against us.
+    </p>
+    <p className="mb-8 leading-8">
+    He has plundered our seas, ravaged our Coasts, burnt our towns, and destroyed the lives of our
+    people.
+    </p>
+    <p className="mb-8 leading-8">
+    He is at this time transporting large Armies of foreign Mercenaries to compleat the works of death,
+desolation and tyranny, already begun with circumstances of Cruelty &amp; perfidy scarcely paralleled in
+the most barbarous ages, and totally unworthy the Head of a civilized nation.
+    </p>
+    <p className="mb-8 leading-8">
+    He has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their
+Country, to become the executioners of their friends and Brethren, or to fall themselves by their
+Hands.
+    </p>
+    <p className="mb-8 leading-8">
+    He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of
+our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished
+destruction of all ages, sexes and conditions.
+    </p>
+    <p className="mb-8 leading-8">
+    In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our
+repeated Petitions have been answered only by repeated injury. A Prince whose character is thus marked
+by every act which may define a Tyrant, is unfit to be the ruler of a free people.
+    </p>
+    <p className="mb-8 leading-8">
+    Nor have We been wanting in attentions to our Brittish brethren. We have warned them from time to time
+of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of
+the circumstances of our emigration and settlement here. We have appealed to their native justice and
+magnanimity, and we have conjured them by the ties of our common kindred to disavow these
+usurpations, which, would inevitably interrupt our connections and correspondence. They too have been
+deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which
+denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace
+Friends.
+    </p>
+    <p className="mb-8 leading-8">
+    We, therefore, the Representatives of the united States of America, in General Congress, Assembled,
+appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by
+Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies
+are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the
+British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude
+Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent
+States may of right do. And for the support of this Declaration, with a firm reliance on the protection of
+divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.
+    </p>
+    <p className="mb-8 leading-8">
+    TRANSITION: Ladies and Gentlemen, I don’t know if you noticed but the Declaration
+contains four references to God. These four references are found in the first two
+sentences and the last two sentences, effectively forming bookends around the
+Declaration. This was the Founders’ way of “shouting from the rooftops” that God is
+“in” The Declaration of Independence and God is “in” the founding of this country.
     </p>
     <p className="mb-8 leading-8 text-center">
       <em>The Laws and Nature and of Nature’s God</em>
@@ -111,13 +288,28 @@ export default function Mission() {
       This took place at the bidding of an atheist organization via their amicus brief in a court case called <em>Everson v. Board of Education</em>. It did so, supposedly, in order to “secularize” America but it should have been labeled “de-Christianize” America. After the Court ruled in favor of <em>Everson</em>, this case remained idle until 1962 when the Court used “judicial precedent” to take prayer out of public schools. Then, in 1963, it ruled to take Bible reading out of public schools. Over several decades, more than a dozen court cases had been decided by “keeping the church out of the state’s business.” All of these cases were “rooted” in atheism.
     </p>
     <p className="mb-8 leading-8">
-      EPILOGUE: Some of you may be wondering, “What’s wrong with atheism?” In this instance, it denigrates 700 years of America’s Foundational Underpinnings, 160 years of legal precedent, and 7.5 years of “blood, sweat, and tears” of those who gave us our freedom.
+    Prayer and Bible reading in education dated back to 1620 and the Pilgrims. Back then,
+    people were not considered to be educated unless they knew basic tenants of the Bible.
     </p>
     <p className="mb-8 leading-8">
-      Furthermore, it desecrates <em>The Declaration of Independence</em> and <em>The Constitution of the United States</em> by degrading their tributes as: “The two most significant documents in human history, second only to the Bible,” and as “the pinnacle of Western Civilization since the time of Christ.” That is what is wrong with atheism in America, plus it reduced Christian citizens to “second class citizenship.”
+      Some of you may be wondering, “What’s wrong with atheism?” In this instance, it denigrates 700 years of America’s Foundational Underpinnings, 160 years of legal precedent, and 7.5 years of “blood, sweat, and tears” of those who gave us our freedom.
     </p>
     <p className="mb-8 leading-8">
-      <em>In conclusion, because God’s hand is on it, it’s time to re-launch the Declaration onto the national stage! Won’t you join me!</em>
+    Their “rights” also contradict church historians and their attributes bestowed on The
+Declaration and The Constitution as “the two most significant documents in human
+history, second only to the Bible.” Not only that, but as “the pinnacle of Western
+Civilization since the time of Christ.”
+    </p>
+    <p className="mb-8 leading-8">
+    EPILOGUE: In closing, the efforts of atheists to rid the Declaration and it’s Four
+References to God from the national stage have been a stunning success! By way of
+contrast, the efforts of Christians to keep the Declaration on the national stage have
+been missing in action for decades! It may be safe to say that a vast swath of the Christian population has never heard of these Four References to God! And the
+Declaration is a ready-made evangelism tool!
+    </p>
+    <p className="mb-8 leading-8">
+      <em>Ladies and Gentlemen, it is time to re-launch the Declaration onto the national stage.
+      How? By reading it in the public arena and on Fourth of July.</em>
     </p>
    </Section>
   </>
